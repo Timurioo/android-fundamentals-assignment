@@ -1,11 +1,14 @@
 <resources>
-    <dimen name="fab_margin">16dp</dimen>
-    <dimen name="margin_x4">16dp</dimen>
-    <dimen name="margin_x1">4dp</dimen>
-    <dimen name="margin_x3">12dp</dimen>
-    <dimen name="margin_x8">32dp</dimen>
-    <dimen name="margin_x2">8dp</dimen>
-    <dimen name="path_start_margin">18dp</dimen>
-    <dimen name="margin_x6">24dp</dimen>
-    <dimen name="common_text_size">12sp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="text_size_40sp">40sp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
 </resources>
